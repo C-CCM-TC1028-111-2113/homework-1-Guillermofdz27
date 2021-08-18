@@ -10,7 +10,7 @@ def main():
         print("El costo de la publicación es :" + str(d))
     else:
         e=float(c)*(.9)
-        print("El costo de la publicación" +str(c))
+        print("El costo de la publicación: " +str(c))
             
     pass
 
